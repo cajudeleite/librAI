@@ -1,1 +1,1 @@
-Welcome to librAI
+Welcome to LibrAI
